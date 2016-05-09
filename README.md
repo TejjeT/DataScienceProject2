@@ -1,4 +1,4 @@
-# Capital One Data Science Pilot Two
+# Capital One Data Science Bootcamp (May 2016)
 A repo for May 2016  data science training for Capital One.
 
 ## Resources by topic
