@@ -14,6 +14,6 @@
 - 1:30 - Time for...   
   - [git + python challenges](git_challenge.md)
   - [installation/configuration](installed_checklist.md). We make sure everybody’s computers have everything needed for the rest of the class.
-  - Brief one-on-ones with Brian + Mark!
+  - Brief one-on-ones with Mike + Mark!
 - 3:30 - [Linear Regression](linear_regression_slides.pdf) lecture
 - 4:30 - The End
