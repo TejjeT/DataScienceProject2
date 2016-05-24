@@ -21,7 +21,7 @@ print denom_list
 def calculateChange(due, cash_received):
     balance=cash_received-due
     for i in denom_list:
-        if balance>=0:
+        if balance>=0.001:
             denomination = floor(balance/i)
             tuple_denom=(i,denomination)
             balance=balance-i*denomination
