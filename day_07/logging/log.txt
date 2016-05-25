@@ -1,3 +1,0 @@
-INFO:root:start simple()
-WARNING:root:x:3 y:5
-INFO:root:end simple()
